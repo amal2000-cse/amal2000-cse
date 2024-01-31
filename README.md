@@ -1,6 +1,6 @@
 # Hello, I'm Amal! 👋
 
-Welcome to my GitHub profile! I'm a passionate MERN stack developer based in kerala. Here, you'll find a collection of my projects which maily focus on full stack development.
+Welcome to my GitHub profile! I'm a passionate MERN stack developer based in kerala. Here, you'll find a collection of my projects, which maily focus on full stack development.
 
 ## About Me
 
