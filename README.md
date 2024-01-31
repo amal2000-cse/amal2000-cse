@@ -1,6 +1,12 @@
-# 💫 About Me:
-I'm currently working on IMAGE GENERATION USING OPEN AI api keys<br><br>I'm currently learning MERN Stack<br>I love swimming
+# Hello, I'm Amal! 👋
 
+Welcome to my GitHub profile! I'm a passionate MERN stack developer based in kerala. Here, you'll find a collection of my projects which maily focus on full stack development.
+
+## About Me
+
+- 🌱 I'm deeply passionate about the MERN stack and enjoy working on full-stack web development projects.
+- 🚀 I'm particularly interested in, exploring new technologies and their applications.
+- 📚 I'm constantly learning and expanding my skill set in the ever-evolving world of web development.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amalmanoj9400) 
